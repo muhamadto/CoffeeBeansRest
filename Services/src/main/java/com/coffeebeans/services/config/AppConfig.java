@@ -30,3 +30,4 @@ import org.springframework.context.annotation.ImportResource;
 @Import({PersistenceConfig.class, ServicesConfig.class, CachingConfig.class})
 public class AppConfig {
 }
+
